@@ -31,5 +31,5 @@ Build files
 ```
 npm run build
 ```
-That will generate the final build at /dist
+That will generate the final build at `/dist`
 
