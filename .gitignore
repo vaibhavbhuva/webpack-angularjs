@@ -1,0 +1,8 @@
+node_modules
+readme.txt
+dist
+/.tmp
+/.sass-cache
+/npm-debug.log
+.idea
+

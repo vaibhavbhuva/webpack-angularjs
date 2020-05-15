@@ -1,0 +1,23 @@
+@import './test.css';
+
+@font-face {
+font-family: 'MyFont';
+   src:  url('../fonts/NotoSansGujarati-Regular.woff2') format('woff2'),
+         url('../fonts/NotoSansGujarati-Regular.woff') format('woff');
+   font-weight: 600;
+   font-style: normal;
+ }
+
+ body {
+   margin: 0;
+   background-color:darkgray;
+   font-family: 'MyFont';
+}
+
+h1 {
+   font-size: 40px;
+}   
+
+.hello {
+   background: url("../images/demo.jpg");
+}
